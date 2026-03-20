@@ -1,3 +1,6 @@
+---
+title: Cover Page
+---
 Welcome to Presia! The world's most eventful continent. You've arrived at the perfect time for adventure and intrigue! Please, let me introduce you to the wonders of this land.
 
 
