@@ -1,0 +1,9 @@
+[Government: Imperial Court (monarchy), Capital City: City of Mists, Major Population: Elves, Minor Population: Dwarves, Gnomes. Currency: Gold, Silver, Copper. Area: 1 million square Kms. Population (est.) 12 Million]
+
+Alalsasaria is an elven majority nation on the continent of Presia, and currently occupies the western half of the Presian mainland. The country doesn't share any land borders with other nations instead having a large border with the Great Rise mountainrange, and shares a maritime border with Dwerelith, The shattered lands, and the Free North. The country is roughly 1,000,000 square kilometers and has a 5278 AS population of 12 million individuals.
+
+Alalsasaria is the oldest surviving empire on the continent, once spanning every corner of the continent. Since then the Empire's borders have receeded due to internal strife. Their defeat at the hands of the rebel dark elves during the Great Separation War during the period of great chaos (100 BS to 100 AS) caused them to lose the eastern half of mainland Presia to the Drow of the newly formed Givilith. The empire had to sign off the island of Terrasol to the warlord Vethurian Scylerian after his rise to power during the war. 
+
+Alalsasaria is currently the pioneer in magical research and in possession of the most magical artifacts in the known world. Due to the elves' natural affinity to magic in addition to their long lifespans, they make for the most advanced wizards and sorcerers. The City of Mists stands as a marvel in pure magical prowess, being able to teleport a large heavily populated city at once. However due to many years of internal conflict and failure to defend themselves, their political influence has waned significantly.
+
+Currently, the empire is lead by Empress Fyrita 
