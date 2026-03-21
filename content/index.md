@@ -13,22 +13,22 @@ Presia is one of three known continent that are spread across this globe and is 
 
 The Presian continent is Vast and formed out of 6 major nations, [[N - Quick Overview|you can find a brief overview of them here.]]<br>
 These nations are The Colony of Dwerelith, [[N - Alalsasaria (WIP)|Alalsasarian Empire]], The Kingdom of Givilith, The Hordish Occupied Territories, The Federation of the Free North, and Whitneseria.
-
+<br>
 Most of my games take place in Dwerelith and Alalsasaria for the time being, so these two locations are the ones that are more important to read IMO and will get their pages first.
 
 # Races
 
 Unlike most generic fantasy settings, this most populous lineage on this continent is the [[L - Elves|Elves of Alalsasaria]], followed by the Huamns of Presia. The Geographical spread  is as follows in descending order of population:
 
-1- Dwerelith: Humans -> Elves -> Halflings -> Dragonborn -> Warforged.
-2- Alalsasaria: Elves -> Gnomes -> Dwarves -> Celestial Elves.
-3- Givilith: Drow -> Gnomes -> Dwarves.
-4- The Horde: Goblins -> Hobgoblins -> Orcs -> Bugbears.
-5- Whitneseria: Humans -> Yuan-ti.
+1- Dwerelith: Humans -> Elves -> Halflings -> Dragonborn -> Warforged.<br>
+2- Alalsasaria: Elves -> Gnomes -> Dwarves -> Celestial Elves.<br>
+3- Givilith: Drow -> Gnomes -> Dwarves.<br>
+4- The Horde: Goblins -> Hobgoblins -> Orcs -> Bugbears.<br>
+5- Whitneseria: Humans -> Yuan-ti.<br>
 6- The Free North: Elves = Humans -> a mixture of the remaining races.
 # Player Options
 
-This section is dedicated to homebrew I officially endorse and also replacements/restrictions placed on already WOTC options.
+This section is dedicated to homebrew I officially endorse and also replacements/restrictions placed on official WOTC options.
 
 **As Is the nature with most Homebrew, their spell lists rarely ever get updated post-release, as such many of these will be missing spells that were released in official material later. If you wish to include one of those, make sure it is thematically appropriate for the class and if so feel free to include it, but please give me a heads-up.**
 
