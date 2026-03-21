@@ -21,7 +21,7 @@ Humans have low natural affinity for magic, and through many decades of trial an
 
 **Halflings**: Nobody knows where the halflings came from, but they were here when the first human tribes emerged on Patriam. Halflings are a reserved race, and tend to distance themselves from human politics as a rule. When the first colonial ships sailed to Presia, only a handful Halflings came alongside them.
 
-# [[N - Alalsasaria|Alalsasaria]]
+# [[N - Alalsasaria (WIP)|Alalsasaria]]
 
 The ancient empire of Alalsasaria used to span over the entire continent at one point in time, but now they are a shadow of their former selves. Following the assassination of Emperor Imhariel, his second in command (Magus Fyrita) has now taken the throne. 
 

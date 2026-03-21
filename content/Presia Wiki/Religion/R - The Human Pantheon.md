@@ -1,0 +1,21 @@
+The Human Pantheon of Presia consists of 6 deities considered to be the ones that brought humanity to their home continent of Patriam. Humanity used to be led by an active pantheon throughout their start, with gods taking monarch roles. Eventually, the gods took a back seat and let humanity prosper on it's own. There are 6 human gods, being: Vita, Bellum, Mors, Prudentia, Amare (Split into Castidia and Miserta), and Vis.
+
+# Vita
+is the head of the human Pantheon, it is said that she is the one that sprang life into the planet after the world was reborn, she represents Life, Healing, Warmth, Air, and Happiness. It is said that humans are made in the image of her and her brother Mors. Although no one has seen the latter. She is usually represented by a winged woman with hair done in long braids. Her shrines are usually built in large cities and temples where food, warmth, and healing may befound.<br>
+![[Vita.webp]] <br>
+# Mors
+Mors is Vita's twin brother, he represents the darkness, judgement, ice, and death. It is said that he wanders the world in search for souls to take into the underworld. Mors is constantly in argument with his sister, and it's said that the goddess Amare was split into Castidia and Miserta while trying to stope one of their arguments. The deities aren't on speaking terms. Mors is usually represented by a large figure wearing a cloak and a mask made of a deer's skull. His shrines are usually found outside graveyards where prayers for the protection to the souls of the dead.<br>
+![[Mors.webp]] <br>
+# Amare
+The goddess Amare used to be the goddess of love in the pantheon, but through time the deity has been split into two deities being Castidia and Miserta. Castidia is the deity of lust, sex, illusion, and Deception. Miserta is the deity of Compassion, Energy, Beauty, and childbirth. The twin deities are usually on good terms with each other. Though Castidia usually dresses up as her sister Miserta and tricks people. Miserta herself sometimes shows up as an elderly woman that helps people in need. Each sister holds one half of a mask, and it's rumored that if the masks are reforged into one again, the goddesses would merge back into Amare again. Shrines of Miserta are usually built near hospitals or temples for her blessing to be granted to women during birth. <br>
+![[Castidia_and_Miserta.webp]] <br>
+
+# Bellum
+Bellum is the deity of War, Honor, Heroism, Fire, and Strength. The deity rose to power at the start of the human unification war as a way for King Henry I of the Estrar Province to unite the troops behind the motivations of their king. The deity is the youngest of the other deities and is usually depicted holding a greatsword, being the weapon of choice for King Henry I. The Deity is the patron of fighters, barbarians, and rarely pyromancers. his shrines are usually built near battlefields where the people leave keepsakes for fallen warriors. <br>
+![[Bellum.webp]] <br>
+# Vis
+Vis is the goddess of Nature, Motherhood, Earth, Protection, and Growth. it is believed she was the Dryad nominated by the World Tree to be her protector, she is usually depicted as a winged Dryad that merges with a tree. Vis is sometimes referred to as Bellum's lover, after the two deities battled after the Unification war because of the destruction, the deities made a pact and fell in love. Her shrines are usually build along travel routes and deep inside forests, where food, water, and clothes are left out for travelers and lost souls to find. <br>
+![[Vis.webp]] <br>
+# Prudentia
+Prudentia is the god of Order, Knowledge, Spirit, Wisdom, and Chastity. The deity was formed and rose to power after the Vita's humans spread all across Patriam. He is supposed to represent order and the advancement of society. The deity is usually represented as a blinded man wearing a piece of Cloth to cover his eyes. It is said that Prudentia fell in love with the goddess Miserta upon her creation, yet she had paid him no attention. His shrines are built inside or near places of government so that he would bless the governors and enact justice. <br>
+![[Prudentia.webp]]

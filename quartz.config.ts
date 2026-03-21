@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "purusfoolus.github.io/Presia-Wiki/",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "Images"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
