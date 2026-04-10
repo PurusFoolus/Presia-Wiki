@@ -15,7 +15,7 @@ Dragonborn usually prefer light clothing to reflect the environment they live in
 The dragonborn were created to help those in need and further the wishes of the first Emperor and as such most of them are lawful and tend to be good, opting to help those in need even to their own detriment. Being created to be war machines, most dragonborn would rather live a life of adventure and battle than stay behind to focus on more scholarly tasks and a majority of them end up working as mercenaries or adventurers. However not all of them are motivated in this fashion and some stay behind to help their community and care for their young, which unfortunately leads to most dragonborn never knowing their parents well or at all.
 
 ## Dragonborn Religion
-The Dragonborn worship the [[R - The Human Pantheon|human gods]], as mandated by the republic. Traditionally dragonborn are more prone to worshipping Mors, Bellum, and Vita as the gods represent the beliefs that most dragonborn hold dear to their hearts.
+The Dragonborn worship the [[R - The Human Pantheon (Rewrite)|human gods]], as mandated by the republic. Traditionally dragonborn are more prone to worshipping Mors, Bellum, and Vita as the gods represent the beliefs that most dragonborn hold dear to their hearts.
 
 # History of the Dragonborn
 Dragonborn have had a rich history from their creation to their current standing in the Presian and Dwerian continents.

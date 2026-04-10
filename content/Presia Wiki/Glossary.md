@@ -1,22 +1,25 @@
 This should have all of the pages that currently exist for the Presia sheet maze, if I've missed something please tell me. (This will 100% happen)
 
-Please be patient while I import/rewrite existing pages that exist elsewhere, also the articles won't be in alphabetical order sorry.
+Please be patient while I import/rewrite existing pages that exist elsewhere.
 
-[[index|Cover Page]]
+[[Homepage|Home Page]]
+[[index|Changelog]]
 
 H - Historical Events
 
+[[H - War of a Million Spears (Rewrite)]]
+
 I - Information Dumps
 
-[[I - Astral Gate (WIP)]] <br>[[I - The Divine Element (WIP)]]
+[[I - Astral Gate (WIP)]] <br>[[I - The Divine Element (WIP)]]<br>[[I - Sentient Undead]]<br>[[I - Presian Skyline (WIP)]]
 
 L - Lineages
 
-[[L - Dragonborn]] <br>[[L - Warforged (WIP)]]
+[[L - Dragonborn]] <br>[[L - Warforged (WIP)]]<br>[[L - Elves (Rewrite)]]
 
 N/P - Nations/Places
 
-[[N - Alalsasaria (WIP)]]<br>[[N - Quick Overview]]
+[[N - Quick Overview]]<br>[[N - Alalsasaria (WIP)]]<br>[[N - Dwerelith (Rewrite)]]<br>[[N - Givilith (WIP)]]<br>[[N - The Free North (WIP)]]<br>[[N - Whitneseria (rewrite)]]
 
 Ph - Phenomenon
 
@@ -24,4 +27,4 @@ Ph - Phenomenon
 
 R - Religion
 
-[[R - The Human Pantheon]]
+[[R - The Human Pantheon (Rewrite)]]
