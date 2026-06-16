@@ -1,3 +1,6 @@
+---
+draft: "true"
+---
 The genocide wars are a set of battles that took place between the years 1928 and 1940 PU (between 5206 to 5218 AS) As the horde invaded Terrasol and conquered the island. The wars were named as 92% of the celestial elf population was killed by the ravaging horde. The population went from ~1M elves to ~80k elves who scattered across the continent proper.
 
 # The fall of Terrasol

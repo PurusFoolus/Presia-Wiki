@@ -1,4 +1,9 @@
-Dwerelith is the sole colony of the Dwerian empire on Presia, and it currently occupies the western island of Noarun and the westernmost island of the Shattered Lands. The country shares a land border with the central shattered islands, otherwise being surriounded by the Great Barrier Ocean, the Shattered Sea, the Frigid Sea, and the ......... Channel. The country is roughly 610,000 square kilometers and has an estimated 2000 PU population of 3 million individuals.
+---
+draft: "true"
+---
+Dwerelith is the largest colony of the Dwerian empire on Presia, and it currently occupies the western island of Noarun and the westernmost island of the Shattered Lands. Although not the only colony, Dwerelith represents the largest pocket of Dwerians on the continent.
+
+The country shares a land border with the central shattered islands, otherwise being surriounded by the Great Barrier Ocean, the Shattered Sea, the Frigid Sea, and the ......... Channel. The country is roughly 610,000 square kilometers and has an estimated 2000 PU population of 3 million individuals.
 
 Dwerelith was establihed after the First-Contact war between humanity and elvenkind. The nation was officially established and accepted by the elves after the 1933 PU treaty of Collaboration with Alalsasaria. The Dwerian refusal to sign the Treaty of Foedsol resulted in the takeover of the western shattered isles. So far, the country has signed several defense traties with Free north cities and is continually expanding their terrotories in the shattered lands as the war with The Horde resumes.
 

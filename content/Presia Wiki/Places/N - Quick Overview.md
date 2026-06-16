@@ -43,7 +43,7 @@ Currently a no mans land, the islands of the sounds are collectively referred to
 
 A small island that suddenly floated into the continent's borders about 300 years ago, making it technically humanity's first arrival on the continent. Whitneseria is a small nation that keeps to itself and isolates its people from the outside world. Very little is known about what happens inside of its borders.
 
-# [[N - Horde Occupied Terrasol|The Horde]]
+# [[N - Horde Occupied Terrasol (WIP)|The Horde]]
 
 Arriving roughly in 1928 PU, the Horde is a Stratocracy, led by the god king Gajzar. They consist of a mash-up of Goblinoid and orc races that were united together and trained into becoming war machines. The horde's homeland is a mysterious place and very few people in the horde occupied island of Terrasol, let alone outside, know anything about it.
 

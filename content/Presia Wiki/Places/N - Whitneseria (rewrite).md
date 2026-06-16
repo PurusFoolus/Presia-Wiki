@@ -1,3 +1,6 @@
+---
+draft: "true"
+---
 Whitneseria is a small nation in the northern borders of the continent. A small nation that's torn in a civil war between it's ruling government.
 
 # Politics

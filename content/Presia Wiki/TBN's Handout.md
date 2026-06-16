@@ -1,3 +1,9 @@
+---
+draft: "true"
+---
+
+This page only exists for archival purposes, and I've lifted some of the content here and used it in other pages.
+
 # Terror by Night!
 
 The village of Orlane Is dying. Once a small and thriving community. Orlane has become a maze of locked doors and frightened faces. Strangers are shunned, trade has withered. Rumors flourish, growing wilder with each retelling. Terrified peasants flee their homes, abandoning their farms with no explanation. Others simply disappear...
