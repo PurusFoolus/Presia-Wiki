@@ -12,7 +12,7 @@
 
 5- Homebrew is fine but I'd like to give it a read first (will probably allow it). Any content in the *Player Options* section of the main page is automatically allowed ofc.
 # General Play
-    
+
 1- I am going to be using the system shock rules. If you take more than half your HP in one turn, you must make a **DC 15** con save or be debuffed in one way or another. This varies from "can't take reactions" to "you drop to 0 HP". 
 
 2- Healing potions give the maximum possible HP when used as an action, and you have to roll if you use the potion as a bonus action. Giving an ally a potion uses your action and you have to roll. 

@@ -1,6 +1,3 @@
----
-draft: "true"
----
 Whitneseria is a small nation in the northern borders of the continent. A small nation that's torn in a civil war between it's ruling government.
 
 # Politics
@@ -15,7 +12,7 @@ The duchy of Chich is the largest of the three duchies and the most economically
 
 Yeom is the southernmost duchy, thus it's the closest to the outside world. People from Yeom have made trade voyages into the continent proper. The duchy sustains the strongest navy of the 3 duchies and maintains the state controlled piracy in the region. most Whitneserians are from Yeom.
 
-## Duchy of Herfordia[
+## Duchy of Herfordia
 
 Herfordia is the original homeland of the people, according to them. This duchy is one of the weakest militarily and economically, but the richest culturally as it contains artifacts of the original people.
 
